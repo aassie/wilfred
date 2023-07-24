@@ -11,7 +11,7 @@ a. Open a terminal window and run the command:
 2. Get the bot token:
 a. In the Slack API dashboard, go to the “Install App” section.
 b. Click “Install App to Workspace” and follow the prompts.
-c. Allow Bot token. I used the following ones:`hannels:join`, `channels:read` and `channels:write`
+c. Allow Bot token. I used the following ones:`channels:join`, `channels:read` and `channels:write`
 
 d. Copy the “Bot User OAuth Access Token” - this will be used to authenticate your bot.
 
